@@ -1,0 +1,12 @@
+# 원본 지오메트리 (13MB) — 재생성 시 다운로드
+scripts/japan.geojson
+
+# 중간 산출물
+scripts/japan_map.json
+scripts/japan_coverage.html
+scripts/preview_*.html
+
+# 렌더링 확인용 스크린샷
+scripts/*.png
+
+.DS_Store
